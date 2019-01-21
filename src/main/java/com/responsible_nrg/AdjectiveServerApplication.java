@@ -12,3 +12,4 @@ public class AdjectiveServerApplication {
 		SpringApplication.run(AdjectiveServerApplication.class, args);
 	}
 }
+
