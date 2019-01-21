@@ -1,0 +1,9 @@
+---
+spring:
+  application:
+    name: AdjectiveServer
+  cloud:
+    config: 
+      uri: http://config.responsible-nrg.com
+  profiles:
+    active: adjective   
